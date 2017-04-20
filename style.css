@@ -1,0 +1,60 @@
+body{
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+  background-color: grey;
+  padding-top: 1px;
+
+}
+
+img{
+  display: block;
+  float: right;
+  width: 300px;
+  height:400px;
+}
+
+.header {
+  padding: 3px;
+  margin: 0px;
+
+}
+
+.header a:hover{
+  background-color: white;
+
+}
+
+}
+
+
+
+.Homepage {
+  width: 400px;
+  height: 50px;
+  font-size: 0px;
+  text-align: center;
+  background-color: 	#006400;
+
+}
+
+.Homepage a{
+  text-decoration: none;
+  color:black;
+}
+
+.Homepage ul {
+  height: auto;
+}
+
+.Homepage li {
+  display: inline;
+  padding: 14px;
+}
+
+.footer {
+  clear: both;
+  text-align: center;
+  background: #006400;
+  height: 50px;
+
+}
