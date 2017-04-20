@@ -7,20 +7,20 @@ body{
 }
 
 img{
-  display: block;
+  display:flex;
   float: right;
-  width: 300px;
-  height:400px;
+  width: 200px;
+  height:300px;
 }
 
 .header {
-  padding: 3px;
+  padding: 5px;
   margin: 0px;
 
 }
 
 .header a:hover{
-  background-color: white;
+  background-color:white;
 
 }
 
@@ -39,7 +39,7 @@ img{
 
 .Homepage a{
   text-decoration: none;
-  color:black;
+  color:silver;
 }
 
 .Homepage ul {
@@ -48,13 +48,13 @@ img{
 
 .Homepage li {
   display: inline;
-  padding: 14px;
+  padding: 15px;
 }
 
 .footer {
   clear: both;
   text-align: center;
-  background: #006400;
-  height: 50px;
+  background: #FFFFFF;
+  height: 30px;
 
 }
