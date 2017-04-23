@@ -7,10 +7,10 @@ body{
 }
 
 img{
-  display:flex;
-  float: right;
+  display: inline-flex;
+  float:  inherit;
   width: 200px;
-  height:300px;
+  height:350px;
 }
 
 .header {
